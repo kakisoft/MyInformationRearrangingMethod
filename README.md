@@ -1,5 +1,5 @@
 ## 【スライド】俺式情報整理術    
-https://gitpitch.com/kakisoft/StrictWebWorldForWindowsUsers/    
+https://gitpitch.com/kakisoft/MyInformationRearrangingMethod/    
 　    　    
 
 　    
