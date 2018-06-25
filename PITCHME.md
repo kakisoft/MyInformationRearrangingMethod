@@ -119,7 +119,9 @@ Evernoteは、
 <h3 style="text-transform:none;">MkDocs</h3>
 　  
 静的ページジェネレータ。  
-jekyll や Sphinx みたいなもの。
+jekyll や Sphinx みたいなもの。  
+　  
+https://www.mkdocs.org/
 ---
 使い方がシンプル。  
 ひな形を作った後、Docsフォルダに  
