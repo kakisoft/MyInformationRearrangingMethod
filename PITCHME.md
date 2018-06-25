@@ -127,7 +127,8 @@ mdファイルを放り込む。
 GitHubにデプロイするコマンドがある。
 ---
 こんな感じ。（GitHub Pagesにデプロイ）
-![alt](assets/04.png)
+![alt](assets/04.png)  
+https://kakisoft.github.io/MiscellaneousDocs/
 --- 
 検索機能があります。
 ![alt](assets/05.png)
